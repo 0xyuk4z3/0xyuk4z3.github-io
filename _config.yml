@@ -16,10 +16,10 @@ timezone: Asia/Shanghai
 
 title: 0xyuk4z3 # the main title
 
-tagline: A portfolio # it will display as the subtitle
+tagline: Hi there! I'm an avid Capture The Flag (CTF) enthusiast with a passion for solving complex cybersecurity challenges. This website is where I document my journey through various CTF competitions, sharing detailed writeups that break down my thought processes, techniques, and solutions.  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  0xyuk4z3's cybersecurity portfolio consisting of writeups and self-written notes.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
